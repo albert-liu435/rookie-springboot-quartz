@@ -1,0 +1,5 @@
+
+spring:
+    profiles:
+        active: dev #@profile.active@ #此处由maven的环境选择决定，参考：https://www.jianshu.com/p/b7c75b0c364c
+
