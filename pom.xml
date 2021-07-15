@@ -10,6 +10,7 @@
     <modules>
       <module>rookie-ramquartz</module>
         <module>rookie-jdbcquartz</module>
+        <module>springquartz</module>
     </modules>
     <packaging>pom</packaging>
 

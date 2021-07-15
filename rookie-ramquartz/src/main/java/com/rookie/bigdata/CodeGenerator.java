@@ -52,7 +52,7 @@ public class CodeGenerator {
         System.out.println(projectPath);
       //  gc.setOutputDir(projectPath + "/src/main/java");
         gc.setOutputDir("C:\\work\\IDEAWorkSpace\\rookie-project\\haizhilangzigithub\\rookie-springboot-quartz\\rookie-ramquartz\\src\\main\\java\\com\\rookie\\bigdata");
-        gc.setAuthor("liuxili");
+        gc.setAuthor("rookie");
         gc.setOpen(false);
         // gc.setSwagger2(true); 实体属性 Swagger2 注解
         gc.setServiceName("%sService");
